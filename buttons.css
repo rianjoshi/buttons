@@ -1,0 +1,148 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .subscribe-button{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  border: none;
+  padding-bottom:10px;
+  padding-top:10px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right:8px;
+  transition:opacity 0.15s; 
+  padding-right:16px;
+  padding-left:16px;
+  vertical-align:top;
+  border-radius: 20px;
+  font-family: Roboto, arial;
+}
+
+ .subscribe-button:hover{
+    opacity:0.8;
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.15) ;
+
+ }
+
+.subscribe-button:active{
+ opacity:0.5;
+}
+
+.join-button{
+    background-color: white;
+    border-color: rgb(6, 95, 212);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(6, 95, 212);
+    border-radius: 2px;
+    cursor: pointer;
+    transition:background-colorm 0.15s, color 0.15s;
+    padding-left:16px ;
+    padding-top:9px ;
+    vertical-align:top;
+    padding-bottom:9px;
+    padding-right:16px;
+  }  
+ 
+.amazon{
+  color: black;
+  background-color: rgb(255, 213, 0);
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:70px;
+  padding-right:70px;
+  border-radius:35px;
+  border:none;
+  vertical-align:top;
+  cursor: pointer;
+}
+
+.amazon:hover{
+  background-color: rgb(255, 196, 0);
+}
+
+
+
+.ama{
+  color: black;
+  background-color: rgb(255, 170, 0);
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:70px;
+  padding-right:70px;
+  border-radius:35px;
+  border:none;
+  vertical-align:top;
+  cursor: pointer;
+}
+
+.ama:hover{
+   background-color: rgb(255, 140, 0);
+}
+
+.join-button:hover{
+  background-color: rgb(41, 118, 211);
+  color: #ffffff;
+}
+
+.join-button:active{
+  opacity:0.7 ;
+}
+
+.tweet-button:hover{
+  box-shadow:5px 5px 10px rgba(0, 0, 0, 0.15) ;
+  transition:box-shadow 0.15s;
+}
+
+.tweet-button:active{
+  opacity:0.6;
+}
+
+ .tweet-button{
+  background-color: rgb(29, 155, 240);
+  color: rgb(255, 255, 255);
+  border:none;
+  height:36px;
+  width:70px;
+  border-radius:18px;
+  font-weight:bold;
+  font-size:15px;
+  margin-left:8px;
+  cursor:pointer;
+  vertical-align:top;
+   
+ }
+
+.loma_mar{
+   padding-top:16px;
+  padding-bottom:16px;
+  padding-left:16px;
+  padding-right:16px;
+  border-radius:45px;
+  border:none;
+  background-color: rgb(250, 249, 249);
+  display: inline-block;
+  color: black;
+  text-decoration: none;  
+  cursor: pointer;
+  border: none;
+  font-family: Roboto, Ariel;
+  font-size: small;
+}
+
+
+  
+
+.loma_mar:hover{
+  opacity: 0.7;
+}
